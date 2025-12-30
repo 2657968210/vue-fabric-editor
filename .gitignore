@@ -21,6 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+*.ttf
+*.otf
 
 yarn.lock
 # pnpm-lock.yaml # https://github.com/ikuaitu/vue-fabric-editor/issues/554
